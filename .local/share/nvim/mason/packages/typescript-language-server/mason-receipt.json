@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","name":"typescript-language-server","links":{"share":{},"bin":{"typescript-language-server":"node_modules\/.bin\/typescript-language-server"},"opt":{}},"metrics":{"completion_time":1706890002466,"start_time":1706889918752},"primary_source":{"type":"registry+v1","id":"pkg:npm\/typescript-language-server@4.3.1"}}

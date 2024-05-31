@@ -1,0 +1,82 @@
+[INFO  Fri 02 Feb 2024 11:09:46 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut keymaps.lua to clipboard
+[WARN  Fri 02 Feb 2024 11:24:39 PM CST] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:878: Invalid mapping for  Y :  nil
+[WARN  Fri 02 Feb 2024 11:24:52 PM CST] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:878: Invalid mapping for  Y :  nil
+[WARN  Fri 02 Feb 2024 11:25:07 PM CST] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:878: Invalid mapping for  Y :  nil
+[INFO  Sun 04 Feb 2024 02:19:50 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut init.lua to clipboard
+[INFO  Sun 04 Feb 2024 04:27:15 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied control to clipboard
+[INFO  Sun 04 Feb 2024 04:27:27 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied arithmetic to clipboard
+[INFO  Sun 04 Feb 2024 04:29:48 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied common.h to clipboard
+[INFO  Sun 04 Feb 2024 04:29:51 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied common.h to clipboard
+[INFO  Sun 04 Feb 2024 04:32:51 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed riscv_cpu.cpp successfully
+[INFO  Sun 04 Feb 2024 05:19:55 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut Vriscv_cpu___024unit.h to clipboard
+[INFO  Tue 06 Feb 2024 12:14:22 AM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed mux21.v successfully
+[INFO  Fri 16 Feb 2024 03:10:05 PM CST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Fri 16 Feb 2024 03:48:44 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed Dockerfile successfully
+[INFO  Wed 21 Feb 2024 03:21:37 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/budali11/ros2_ws/src/rc_interfaces
+[INFO  Wed 21 Feb 2024 04:25:38 PM CST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Wed 21 Feb 2024 04:56:12 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed robot.h successfully
+[INFO  Wed 21 Feb 2024 08:34:59 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed mux21c.cpp successfully
+[INFO  Sat 02 Mar 2024 03:56:25 PM CST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Mon 04 Mar 2024 03:42:43 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed BST.cpp successfully
+[INFO  Mon 04 Mar 2024 05:07:17 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed AVL.hpp successfully
+[INFO  Mon 04 Mar 2024 05:07:23 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed AVL.cpp successfully
+[INFO  Mon 04 Mar 2024 05:12:28 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed BST.cpp successfully
+[INFO  Mon 04 Mar 2024 05:12:44 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed BST.hpp successfully
+[INFO  Wed 06 Mar 2024 05:21:45 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed medianOfTwoSortedArrays.cpp successfully
+[INFO  Wed 06 Mar 2024 05:21:55 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed MedianOfTwoSortedArrays.cpp successfully
+[INFO  Thu 07 Mar 2024 04:22:17 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed .gitignore successfully
+[INFO  Sat 09 Mar 2024 03:04:09 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed reverse-integer.cpp successfully
+[INFO  Sat 16 Mar 2024 06:44:39 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed Reg.v successfully
+[INFO  Sun 17 Mar 2024 08:25:20 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied cpp.lua to clipboard
+[INFO  Sun 17 Mar 2024 08:25:27 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied cpp.lua to clipboard
+[INFO  Sun 17 Mar 2024 10:32:00 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut isa/riscv32 to clipboard
+[INFO  Mon 18 Mar 2024 11:14:03 AM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut include to clipboard
+[INFO  Mon 18 Mar 2024 11:14:27 AM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed lib successfully
+[INFO  Wed 20 Mar 2024 08:43:10 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed demo.cc successfully
+[INFO  Wed 20 Mar 2024 08:43:31 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed demo.py successfully
+[INFO  Tue 26 Mar 2024 11:22:51 AM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed lights.png successfully
+[INFO  Thu 28 Mar 2024 01:53:20 PM CST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Thu 28 Mar 2024 01:53:23 PM CST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Mon 01 Apr 2024 02:52:09 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut cmsis-dap.cfg to clipboard
+[INFO  Mon 01 Apr 2024 02:52:13 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut stm32h7x.cfg to clipboard
+[INFO  Mon 01 Apr 2024 02:52:15 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut README.md to clipboard
+[INFO  Mon 01 Apr 2024 02:52:16 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut stm32h7x_extern.cfg to clipboard
+[INFO  Mon 01 Apr 2024 02:52:19 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut README.md to clipboard
+[INFO  Mon 01 Apr 2024 02:52:24 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut swj-dp.tcl to clipboard
+[ERROR Mon 01 Apr 2024 02:58:32 PM CST] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:752: Error opening file: vim/_editor.lua:0: nvim_exec2()..modelines, line 281: Vim(edit):E518: Unknown option: printf("Wrong 
+[ERROR Mon 01 Apr 2024 04:49:49 PM CST] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:752: Error opening file: vim/_editor.lua:0: nvim_exec2()..modelines, line 322: Vim(edit):E518: Unknown option: printf("Wrong 
+[ERROR Mon 01 Apr 2024 04:54:21 PM CST] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:752: Error opening file: vim/_editor.lua:0: nvim_exec2()..modelines, line 281: Vim(edit):E518: Unknown option: printf("Wrong 
+[WARN  Mon 01 Apr 2024 11:49:46 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:581: /home/budali11/stm32h7-bootloader-application/.gitignored  already exists
+[INFO  Mon 01 Apr 2024 11:49:48 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed .gitignore successfully
+[INFO  Thu 04 Apr 2024 09:51:46 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied compile_commands.json to clipboard
+[ERROR Thu 04 Apr 2024 09:51:52 PM CST] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:132: debounce  filesystem_navigate  error:  ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:420: bad argument #1 to 'fs_closedir' (uv_dir expected, got nil)
+[ERROR Thu 04 Apr 2024 09:51:58 PM CST] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:132: debounce  filesystem_navigate  error:  ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:420: bad argument #1 to 'fs_closedir' (uv_dir expected, got nil)
+[ERROR Thu 04 Apr 2024 09:52:05 PM CST] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:132: debounce  filesystem_navigate  error:  ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:420: bad argument #1 to 'fs_closedir' (uv_dir expected, got nil)
+[ERROR Fri 05 Apr 2024 07:47:47 PM CST] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:132: debounce  filesystem_navigate  error:  ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:420: bad argument #1 to 'fs_closedir' (uv_dir expected, got nil)
+[INFO  Fri 05 Apr 2024 08:11:58 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/budali11/PX4-Autopilot/src/lib/events/libevents
+[INFO  Fri 05 Apr 2024 09:37:51 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/budali11/PX4-Autopilot/src/modules/uxrce_dds_client/Micro-XRCE-DDS-Client
+[INFO  Fri 05 Apr 2024 09:41:32 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/budali11/PX4-Autopilot/src/lib/crypto/monocypher
+[INFO  Sat 06 Apr 2024 01:46:12 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/budali11/PX4-Autopilot/src/lib/events/libevents
+[INFO  Sat 06 Apr 2024 01:47:20 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/budali11/PX4-Autopilot/src/modules/uxrce_dds_client/Micro-XRCE-DDS-Client
+[INFO  Sat 06 Apr 2024 01:55:13 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed flightgear_bridge successfully
+[WARN  Sun 07 Apr 2024 02:25:53 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:450: Could not read file/dir: /home/budali11/Micro-XRCE-DDS-Agent/build/fastdds/src/fastdds nil , attempting to delete anyway...
+[INFO  Sun 07 Apr 2024 02:25:54 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied fastdds to clipboard
+[WARN  Sun 07 Apr 2024 02:25:55 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:450: Could not read file/dir: /home/budali11/Micro-XRCE-DDS-Agent/build/fastdds/src/fastdds nil , attempting to delete anyway...
+[WARN  Sun 07 Apr 2024 02:25:55 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:450: Could not read file/dir: /home/budali11/Micro-XRCE-DDS-Agent/build/fastdds/src/fastdds nil , attempting to delete anyway...
+[INFO  Sun 07 Apr 2024 02:34:54 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied fastdds-gitinfo.txt to clipboard
+[INFO  Sun 07 Apr 2024 02:35:06 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied fastdds-gitinfo.txt to clipboard
+[INFO  Sun 07 Apr 2024 03:35:45 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied compile_commands.json to clipboard
+[INFO  Sun 07 Apr 2024 03:56:43 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied .clangd to clipboard
+[INFO  Sun 07 Apr 2024 03:57:34 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed compile_commands.json.bak successfully
+[INFO  Sun 07 Apr 2024 03:57:52 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed compile_commands.json.bak successfully
+[INFO  Sun 07 Apr 2024 04:00:43 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied .clangd to clipboard
+[INFO  Sun 07 Apr 2024 04:03:35 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed .clangd.bak successfully
+[INFO  Sun 07 Apr 2024 04:04:57 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed compile_flags.txt successfully
+[INFO  Sun 07 Apr 2024 04:08:17 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied .clangd.bak to clipboard
+[INFO  Sun 07 Apr 2024 06:01:25 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:254: Cut cubepilot/cubeorangeplus to clipboard
+[INFO  Mon 08 Apr 2024 01:33:44 PM CST] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:513: Deleted directory  /home/budali11/rdk_ws/.cache
+[INFO  Mon 08 Apr 2024 01:37:30 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied .clangd to clipboard
+[INFO  Mon 08 Apr 2024 02:00:08 PM CST] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Mon 08 Apr 2024 02:11:43 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied compile_commands.json to clipboard
+[INFO  Mon 08 Apr 2024 02:11:44 PM CST] ...y/neo-tree.nvim/lua/neo-tree/sources/common/commands.lua:220: Copied compile_commands.json to clipboard
+[INFO  Tue 09 Apr 2024 02:35:28 PM CST] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: false
